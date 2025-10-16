@@ -1,0 +1,5 @@
+train: images/train
+val: images/val
+
+nc: 8
+names: ['Single Hotspot', 'Multi Hotspots', 'Single Diode', 'Multi Diode', 'Single Bypassed Substring', 'Multi Bypassed Substring', 'Open Circuit', 'Reversed Polarity']
